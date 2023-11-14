@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\menuslide\menuslide\bin\Debug\menuslide.exe.config
+C:\Users\Usuario\source\repos\menuslide\menuslide\bin\Debug\menuslide.exe
+C:\Users\Usuario\source\repos\menuslide\menuslide\bin\Debug\menuslide.pdb
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.Properties.Resources.resources
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.exe
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.pdb
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.Form1.resources
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.informacion.resources
+C:\Users\Usuario\source\repos\menuslide\menuslide\obj\Debug\menuslide.form.Home.resources
